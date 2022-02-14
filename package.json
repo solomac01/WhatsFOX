@@ -1,6 +1,6 @@
 {
   "name": "WhatsFOX",
-  "version": "1.3.6",
+  "version": "1.0.0",
   "description": "WhatsFOX project - Modified version WhatsAsena, Made By CEHunter30 with Baileys",
   "main": "./WhatsFOX/bot.js",
   "scripts": {
