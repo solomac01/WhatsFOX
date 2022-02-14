@@ -131,10 +131,10 @@ Your account may be banned for the following reasons:
 
 ## Developers
 
-[![CEHunter30](https://github.com/CEHunter30.png?size=100)](https://github.com/CEHunter30) 
-----|
-[CEHunter30](https://github.com/CEHunter30) 
-Modified Version of WhatsAsena
+[![CEHunter30](https://github.com/CEHunter30.png?size=100)](https://github.com/CEHunter30) | [![AsenaDEV](https://raw.githubusercontent.com/phaticusthiccy/WhatsAsenaDuplicated/master/media/gif/WhatsAsena-Thumb.jpeg?size=100)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+----|----
+[CEHunter30](https://github.com/CEHunter30) | [AsenaDEV](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+Modified Version of WhatsAsena | Thank you AsenaDEV
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
