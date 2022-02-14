@@ -1,14 +1,14 @@
 {
-  "name": "WhatsAsenaDuplicated",
+  "name": "WhatsFOX",
   "version": "1.3.6",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./WhatsAsenaDuplicated/bot.js",
+  "description": "WhatsFOX project - Modified version WhatsAsena, Made By CEHunter30 with Baileys",
+  "main": "./WhatsFOX/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git"
+    "url": "git+https://github.com/CEHunter30/WhatsFOX.git"
   },
   "keywords": [
     "whatsapp",
@@ -24,13 +24,13 @@
     "whatsapp api",
     "WhatsAsena"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "AsenaDev / @phaticusthiccy",
+  "author": "CEHunter30 / AsenaDev",
+  "developer": "CEHunter30 / AsenaDev",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated/issues"
+    "url": "https://github.com/CEHunter30/WhatsFOX/issues"
   },
-  "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
+  "homepage": "https://github.com/CEHunter30/WhatsFOX#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "@phaticusthiccy/open-apis": "^1.4.0",
