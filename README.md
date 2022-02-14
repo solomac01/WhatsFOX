@@ -33,11 +33,6 @@
   </a>
   <a href="https://github.com/phaticusthiccy">
     <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
-
-  </a>
-  <a href="https://t.me/AsenaSupport">
-    <img src="https://img.shields.io/badge/Telegram-Asena%20Support-purple&style=plastic">
-
   </a>
 </p>
 
